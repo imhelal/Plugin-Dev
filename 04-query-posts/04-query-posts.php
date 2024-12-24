@@ -19,9 +19,6 @@ class CM_QUERY_POST {
 		return self::$instance;
 	}
 
-	public function init() {
-		$this->load_classes();
-	}
 
 	public function define_constants() {
 		define( 'CM_QUERY_PLUGIN_PATH', plugin_dir_path( __FILE__ ) );
