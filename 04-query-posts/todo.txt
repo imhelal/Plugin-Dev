@@ -1,0 +1,9 @@
+Define constants
+Add admin menu & templates
+Fetch posts using get posts
+design html table
+get author
+human readable time
+wp_date() method
+wp_get_post_terms() with array_map()
+filter posts
